@@ -3,8 +3,8 @@
 This repository contains my daily LeetCode practice to improve problem-solving and DSA skills.
 
 ## 📊 Progress
-- Easy: 1
-- Medium: 0
+- Easy: 2
+- Medium: 2
 - Hard: 0
 
 ## 📁 Structure
@@ -12,15 +12,12 @@ This repository contains my daily LeetCode practice to improve problem-solving a
 - medium/
 - hard/
 
-## 🧠 Topics Covered
-- Arrays
-- Hash Map
-
 ## ✅ Completed Problems
 
 ### Easy
 1. Two Sum  
-   - Approach: Hash Map  
-   - Time Complexity: O(n)  
-   - Space Complexity: O(n)
+2. Valid Parentheses
 
+### Medium 
+1. add-two-numbers.py
+2. Longest Substring Without Repeating Characters
