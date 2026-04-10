@@ -1,16 +1,4 @@
-"""
-Problem: Add Two Numbers
-Link: https://leetcode.com/problems/add-two-numbers/
-Difficulty: Medium
 
-Approach:
-- Traverse both linked lists
-- Add digits with carry
-- Create new linked list for result
-
-Time: O(n)
-Space: O(1)
-"""
 class Solution:
     def addTwoNumbers(self, l1, l2):
         dummy = ListNode(0)
