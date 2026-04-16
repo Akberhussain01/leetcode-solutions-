@@ -6,6 +6,7 @@ This repository contains my daily LeetCode practice to improve problem-solving a
 - Easy: 6
 - Medium: 6
 - Hard: 5
+- SQL: 2
 
 ## 📁 Structure
 - easy/
