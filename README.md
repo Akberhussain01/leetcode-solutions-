@@ -3,9 +3,9 @@
 This repository contains my daily LeetCode practice to improve problem-solving and DSA skills.
 
 ## 📊 Progress
-- Easy: 7
-- Medium: 7
-- Hard: 5
+- Easy: 8
+- Medium: 9
+- Hard: 4
 - SQL: 2
 
 ## 📁 Structure
