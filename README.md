@@ -4,7 +4,7 @@ This repository contains my daily LeetCode practice to improve problem-solving a
 
 ## 📊 Progress
 - Easy: 8
-- Medium: 9
+- Medium: 12
 - Hard: 4
 - SQL: 2
 
